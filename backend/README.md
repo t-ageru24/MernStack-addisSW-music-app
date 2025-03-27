@@ -125,33 +125,17 @@ https://song-api-pncl.onrender.com/songs/
       "result": {
         "songsByGenre": [
           {
-            "Genre": "Jazz",
-            "TotalSongsByGenre": 3,
-            "Songs": ["So What", "Take Five", "My Favorite Things"]
+            "Genre": "",
+            "TotalSongsByGenre": ,
+            "Songs": [""]
           },
           // More items...
         ],
         "songsByArtist": [
           {
-            "Artist": "Guns N' Roses",
-            "TotalSongsByArtist": 1,
-            "Songs": ["Sweet Child o' Mine"]
-          }
-          // More items...
-        ],
-        "songsByAlbum": [
-          {
-            "Album": "Texas Flood",
-            "TotalSongsByAlbum": 1,
-            "Songs": ["Pride and Joy"]
-          }
-          // More items...
-        ],
-        "albumsByArtist": [
-          {
-            "Artist": "Guns N' Roses",
-            "TotalAlbums": 1,
-            "Albums": ["Appetite for Destruction"]
+            "Artist": "",
+            "TotalSongsByArtist": ,
+            "Songs": [""]
           }
           // More items...
         ]
